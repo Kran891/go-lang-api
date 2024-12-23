@@ -1,4 +1,4 @@
-module kran.code.com/logeer
+module github.com/kran891/go-lang-api/logger
 
 go 1.23.4
 
