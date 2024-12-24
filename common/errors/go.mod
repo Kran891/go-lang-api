@@ -1,4 +1,4 @@
-module github.com/kran891/go-lang-api/errors
+module github.com/kran891/go-lang-api/common/errors
 
 go 1.23.4
 
